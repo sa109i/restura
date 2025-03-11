@@ -1,0 +1,1 @@
+- Hero section with full screen background video and a headline.
