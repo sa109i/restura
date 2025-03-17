@@ -1,1 +1,6 @@
 - Hero section with full screen background video and a headline.
+
+- misakes:
+    - create a image path array itrate and create a image (when ever you find yourself duplicating code think 3 times, bad practice).
+    - using discriptive names for components dish card, cta button ...
+    - whenever mapping don't forget the index use it for key.
